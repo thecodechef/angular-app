@@ -1,0 +1,17 @@
+{
+  "name": "angular-app",
+  "displayName": "Angular App",
+  "version": "0.0.1",
+  "license": "MIT",
+  "author": {
+    "name": "Jeremy Bolding",
+    "email": "cyberchefjay@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thecodechef/angular-app"
+  },
+  "bugs": "https://github.com/thecodechef/angular-app/issues",
+  "dependencies": {},
+  "devDependencies": {}
+}
