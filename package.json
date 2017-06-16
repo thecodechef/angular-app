@@ -12,6 +12,9 @@
     "url": "https://github.com/thecodechef/angular-app"
   },
   "bugs": "https://github.com/thecodechef/angular-app/issues",
-  "dependencies": {},
+  "dependencies": {
+    "angular": "^1.6.4",
+    "angular-ui-bootstrap": "^2.5.0"
+  },
   "devDependencies": {}
 }
